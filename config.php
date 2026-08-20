@@ -1,6 +1,6 @@
 <?php
-$TOKEN = ""; // bot token
-$botUsername = ""; // bot username without @
+$TOKEN = "8937334713:AAHbK50bbjg7ryrYDM4K_SzrfRq7Yb8FICA "; // bot token
+$botUsername = "ggguuiii_bot "; // bot username without @
 
 /*
 $databaseHost = "localhost";
@@ -9,6 +9,6 @@ $databaseUsername = ""; // db username
 $databasePassword = ""; // db password
 */
 
-$sudoID = ""; // sudo id
+$sudoID = "8476500086 "; // sudo id
 
 date_default_timezone_set("Asia/Riyadh");
